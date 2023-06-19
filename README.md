@@ -1,8 +1,8 @@
-# Dhaka Weather Forcasting
+# Dhaka Weather Forecasting
 
 ## **Introduction**
 
-In this repository, a forecasting model is trained using facebook prophet and also the model's API is created using fastapi. The model can predict temperature of Dhaka, Bangladesh for given date.
+In this repository, a forecasting model is trained using Facebook Prophet, and the model's API is also created using FastAPI. The model can predict temperature of Dhaka, Bangladesh for given date.
 
 
 ## **Dataset**
@@ -26,7 +26,7 @@ First clone the github repo in your local or server machine by following:
 git clone https://github.com/rahatkader/Dhaka-Weather-Forecasting.git
 ```
 
-Change the working directory to project root directory. Use Pip to create a new environment and install dependency from `requirement.txt` file. The following command will install the packages according to the configuration file `requirement.txt`.
+Change the working directory to project root directory. Use Pip to create a new environment and install dependencies from `requirement.txt` file. The following command will install the packages according to the configuration file `requirement.txt`.
 
 ```
 pip install -r requirements.txt
