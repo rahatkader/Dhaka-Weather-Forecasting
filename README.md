@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-In this repository, a forecasting model is trained using Facebook Prophet, and the model's API is also created using FastAPI. The model can predict temperature of Dhaka, Bangladesh for given date.
+In this repository, a forecasting model's API is created using the Facebook Prophet model for forecasting Dhaka's temperature. The model is trained using the Open-Meteo weather API. The model can predict the temperature in Dhaka, Bangladesh, for a given date.
 
 
 ## **Dataset**
